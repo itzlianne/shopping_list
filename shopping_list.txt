@@ -1,0 +1,7 @@
+milk
+chicken
+cheese
+chocolate
+bread
+wrap
+vegetables
